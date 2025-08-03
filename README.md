@@ -14,10 +14,4 @@ A basic web-based Java application using JSP, Servlets, and MySQL for managing s
 - Apache Tomcat
 - MySQL
 
-## Folder Structure
-```
-student-management-portal/
-├── src/
-│   └── StudentServlet.java
-└── README.md
-```
+
